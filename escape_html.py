@@ -3,7 +3,7 @@
 # Author: Wolfgang Thomas <thomas@syslab.com>
 
 """%(program)s: Escape HTML inside XML tags (in case the translators were
-    too stupid to use an XML-capable editor).
+    not able to use an XML-capable editor).
 
 usage:  %(program)s input.xml output.xml
 input.xml    The filename of the exported survey
